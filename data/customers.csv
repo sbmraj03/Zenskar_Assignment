@@ -1,0 +1,12 @@
+company_name,contact_email,contact_first_name,contact_last_name,phone_number,address,city,country,postal_code,tax_id,company_size
+Mac Alterison,john.doe@macalterison.com,John,Doe,+1-555-0100,123 Business St,New York,USA,10001,TAX-123456,50-100
+Beta Inc,jane.smith@beta.co,Jane,Smith,+1-555-0200,456 Commerce Ave,San Francisco,USA,94105,TAX-789012,100-500
+Gamma LLC,bob.wilson@gamma.com,Bob,Wilson,+1-555-0300,789 Tech Blvd,Austin,USA,78701,TAX-345678,10-50
+Delta Systems,alice.brown@delta.sys,Alice,Brown,+1-555-0400,321 Innovation Dr,Seattle,USA,98101,TAX-901234,500-1000
+Epsilon Co,charlie.davis@epsilon.io,Charlie,Davis,+1-555-0500,654 Startup Lane,Boston,USA,02101,TAX-567890,1-10
+Zeta Technologies,diana.miller@zeta.tech,Diana,Miller,+1-555-0600,987 Digital Ave,Denver,USA,80201,TAX-234567,100-500
+Eta Enterprises,frank.garcia@eta.biz,Frank,Garcia,+1-555-0700,147 Enterprise Rd,Miami,USA,33101,TAX-678901,50-100
+Theta Group,grace.lee@theta.group,Grace,Lee,+1-555-0800,258 Business Park,Chicago,USA,60601,TAX-890123,500-1000
+Iota Solutions,henry.martinez@iota.solutions,Henry,Martinez,+1-555-0900,369 Solution St,Phoenix,USA,85001,TAX-345678,10-50
+Kappa Industries,iris.anderson@kappa.ind,Iris,Anderson,+1-555-1000,741 Industry Blvd,Portland,USA,97201,TAX-456789,100-500
+Lambda Corp,jack.taylor@lambda.co,Jack,Taylor,+1-555-1100,852 Lambda Lane,Atlanta,USA,30301,TAX-567890,1-10
