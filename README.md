@@ -1,3 +1,6 @@
+## Demo Recording
+Watch the demo here: https://drive.google.com/file/d/108tMJGMlH1z_NEuafcNdqBRRyP7c7GUG/view
+
 # CSV Customer Import System - Zenskar Assignment
 
 A Windmill-based system that processes CSV files and creates customers via MockAPI.
